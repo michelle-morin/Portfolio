@@ -1,8 +1,9 @@
 img {
+  float: left;
   max-width: auto;
   max-height: auto;
   margin-bottom: 20px;
-  float: left;
+  padding: 5px;
 }
 
 .role-type {
