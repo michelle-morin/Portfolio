@@ -1,11 +1,9 @@
-img {
-
+.img {
+  float: right;
+  max-width: 30%;
+  max-height: 30%;
 }
 
 .role-type {
-
-}
-
-.column {
-
+  font-style: italic;
 }
