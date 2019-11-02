@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage provides background information about myself and a directory of projects that I have completed while enrolled in a programming course at Epicodus. Click through the project directory to explore my work on Github! This webpage is an exercise in HTML, CSS, and implementing Bootstrap elements into styles.  _
+This webpage provides background information about myself and a directory of projects that I have completed while enrolled in a programming course at Epicodus. Click through the project directory to explore my work on Github! This webpage is an exercise in HTML, CSS, and implementing Bootstrap elements into styles.
 
 ## Setup/Installation Requirements
 
