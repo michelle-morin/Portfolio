@@ -1,5 +1,5 @@
 img {
-  max-width: 600px
+  max-width: auto;
   max-height: auto;
   margin-bottom: 20px;
   float: left;
@@ -11,10 +11,14 @@ img {
 
 .panel-title {
   color: #5394B9;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .well h2 {
   color: #5394B9;
-  font-size: 20px;
+  font-size: 30px;
+}
+
+.jumbotron h1 {
+  color: #5394B9;
 }
