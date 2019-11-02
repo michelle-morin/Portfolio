@@ -6,9 +6,9 @@
 
 ## Description
 
-This webpage provides background information about myself and a directory of projects that I have completed while enrolled in a programming course at Epicodus. Click through the project directory to explore my work on Github! This webpage is an exercise in HTML, CSS, and implementing Bootstrap elements into styles.
+This [webpage](https://michelle-morin.github.io/portfolio) provides background information about myself and a directory of projects that I have completed while enrolled in a programming course at Epicodus. Click through the project directory to explore my work on Github! This webpage is an exercise in HTML, CSS, and implementing Bootstrap elements into styles.
 
-## Setup/Installation Requirements
+## Setup Requirements
 
 * _Clone this repository._
 * _Open the top level of the cloned directory._
