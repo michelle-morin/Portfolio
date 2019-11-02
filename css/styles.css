@@ -1,14 +1,20 @@
 img {
-  text-align: center;
-  margin: 20px;
-  padding: 20px;
+  max-width: 600px
+  max-height: auto;
+  margin-bottom: 20px;
+  float: left;
 }
 
 .role-type {
   font-style: italic;
 }
 
-.row {
-  margin-top: 10px;
-  margin-bottom: 10px;
+.panel-title {
+  color: #5394B9;
+  font-size: 20px;
+}
+
+.well h2 {
+  color: #5394B9;
+  font-size: 20px;
 }
