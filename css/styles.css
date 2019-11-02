@@ -1,7 +1,6 @@
 .img {
-  float: right;
-  max-width: 30%;
-  max-height: 30%;
+  display: flex;
+  align-self: center;
 }
 
 .role-type {
