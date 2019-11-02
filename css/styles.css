@@ -1,8 +1,14 @@
-.img {
-  display: flex;
-  align-self: center;
+img {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
 }
 
 .role-type {
   font-style: italic;
+}
+
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
