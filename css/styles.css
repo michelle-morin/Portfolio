@@ -17,9 +17,17 @@
   font-size: 30px;
 }
 
+.panel-body p {
+  color: #5394B9;
+}
+
 .well h2 {
   color: #5394B9;
   font-size: 30px;
+}
+
+.well p {
+  color: #5394B9;
 }
 
 .jumbotron h1 {
